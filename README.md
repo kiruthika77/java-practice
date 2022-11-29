@@ -10,3 +10,6 @@ day 1: (28/11/2022)
 day 2: (29/11/2022)
     some java programs in Arrays,multidimensional Arrays and ArrayList by pasing functions.
     
+day 3: (30/11/2022)   
+    performed linear search in array and search within range.
+    
