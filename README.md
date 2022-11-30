@@ -13,3 +13,5 @@ day 2: (29/11/2022)
 day 3: (30/11/2022)   
     performed linear search in array and search within range.
     
+day 4: (01/02/2022)   
+    performed binary search in array.
