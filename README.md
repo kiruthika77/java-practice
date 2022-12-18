@@ -18,3 +18,7 @@ day 4: (30/11/2022)
     
 day 5: (01/12/2022)   
     performed Ceiling and floor of a Number.
+    
+day 6: (18/12/2022)   
+    find target in infinite size array
+    
