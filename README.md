@@ -22,3 +22,6 @@ day 5: (01/12/2022)
 day 6: (18/12/2022)   
     find target in infinite size array
     
+day 7: (20/12/2022)   
+    find Peak index in mountain array
+    
